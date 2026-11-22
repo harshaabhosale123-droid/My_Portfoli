@@ -5,7 +5,7 @@
 
 ### Diploma Computer Engineering Student · AI & Robotics Builder · Aspiring Technology Entrepreneur
 
-I’m a technology enthusiast who learns by building. I’m interested in creating practical software and hardware projects that bring together **AI, robotics, embedded systems, and automation**—and, over time, turning useful ideas into technology products.
+I’m a technology enthusiast who learns by building. I’m interested in creating practical software and hardware projects that bring together **AI, robotics, embedded systems, and automation**—and making them understandable and useful.
 
 [![GitHub](https://img.shields.io/badge/GitHub-harshaabhosale123--droid-181717?style=for-the-badge&logo=github)](https://github.com/harshaabhosale123-droid)
 [![Portfolio project](https://img.shields.io/badge/Project-silver--hands-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://silver-hands.vercel.app)
@@ -83,14 +83,14 @@ A robotics concept exploring how microcontrollers, audio input/output, and AI-po
 **Demo:** Not available yet
 
 <p align="center">
-  <img src="https://kommodo.ai/i/n3kkd1Wn4jioCTW8hBpm" alt="Placeholder for an AI robotics prototype photo" width="100%">
+  <img src="https://github.com/user-attachments/assets/1" alt="FRIDAY industrial robot concept screenshot" width="100%">
 </p>
 
 ---
 
 ### Silver Hands — Web App
 
-A web application with a live deployment. The repository identifies its stack as Vite, React, TypeScript, shadcn/ui, and Tailwind CSS. I’m updating the project documentation so visitors can quickly understand its purpose and features.
+A web application with a live deployment. The repository identifies its stack as Vite, React, TypeScript, shadcn/ui, and Tailwind CSS. I’m updating the project documentation so visitors can quickly understand what the app offers.
 
 **Technologies identified in the repository:** React, TypeScript, Vite, shadcn/ui, and Tailwind CSS  
 **Status:** Deployed; add a concise, accurate description of what the app does.  
@@ -112,8 +112,8 @@ A web application with a live deployment. The repository identifies its stack as
 These cards are generated from public GitHub activity. They may take time to update or be temporarily unavailable.
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=harshaabhosale123-droid&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics for harshaabhosale123-droid" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshaabhosale123-droid&layout=compact&hide_border=true&theme=tokyonight" alt="Most-used public repository languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=harshaabhosale123-droid&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics for Harsha" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshaabhosale123-droid&layout=compact&hide_border=true&theme=tokyonight" alt="Most-used public repository languages for Harsha" />
 </p>
 
 <p align="center">
