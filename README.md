@@ -147,7 +147,7 @@ These cards are generated from public GitHub activity. They may take time to upd
 ## 🤝 Contact & Links
 
 - **GitHub:** [@harshaabhosale123-droid](https://github.com/harshaabhosale123-droid)
-- **Email:** `harshaabhosale123@gmail.com` — replace this with an address you’re comfortable sharing
+- **Email:** `harshaabhosale123@gmail.com` 
 - **LinkedIn:** `https://www.linkedin.com/in/harshwardhan-bhosale-06b0273a5?utm_source=share_via&utm_content=profile&utm_medium=member_android` 
 - **Portfolio:** `YOUR_PORTFOLIO_URL` 
 ---
