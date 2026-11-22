@@ -58,7 +58,7 @@ A personal AI assistant project inspired by futuristic AI systems. The goal is t
 **Demo:** Not available yet
 
 <p align="center">
-  <img src="https://placehold.co/1200x500/0b1020/8b5cf6?text=Friday+AI+%7C+Replace+with+a+project+screenshot" alt="Placeholder for a Friday AI project screenshot" width="100%">
+  <img src="https://kommodo.ai/i/QIDbukb6YPE3iS7sOCEb" alt="Friday AI project " width="100%">
 </p>
 
 ---
