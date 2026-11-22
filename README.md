@@ -83,7 +83,7 @@ A robotics concept exploring how microcontrollers, audio input/output, and AI-po
 **Demo:** Not available yet
 
 <p align="center">
-  <img src="https://placehold.co/1200x500/0b1020/06b6d4?text=AI+Robotics+%7C+Replace+with+a+prototype+photo" alt="Placeholder for an AI robotics prototype photo" width="100%">
+  <img src="https://kommodo.ai/i/n3kkd1Wn4jioCTW8hBpm" alt="Placeholder for an AI robotics prototype photo" width="100%">
 </p>
 
 ---
@@ -147,10 +147,9 @@ These cards are generated from public GitHub activity. They may take time to upd
 ## 🤝 Contact & Links
 
 - **GitHub:** [@harshaabhosale123-droid](https://github.com/harshaabhosale123-droid)
-- **Email:** `YOUR_PUBLIC_EMAIL` — replace this with an address you’re comfortable sharing
-- **LinkedIn:** `YOUR_LINKEDIN_URL` — add your profile link, or remove this line
-- **Portfolio:** `YOUR_PORTFOLIO_URL` — add a personal portfolio when available, or remove this line
-
+- **Email:** `harshaabhosale123@gmail.com` — replace this with an address you’re comfortable sharing
+- **LinkedIn:** `https://www.linkedin.com/in/harshwardhan-bhosale-06b0273a5?utm_source=share_via&utm_content=profile&utm_medium=member_android` 
+- **Portfolio:** `YOUR_PORTFOLIO_URL` 
 ---
 
 <div align="center">
